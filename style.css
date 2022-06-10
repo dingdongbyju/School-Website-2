@@ -1,0 +1,25 @@
+img {
+    border: 15px solid black;
+}
+
+.navbar-nav {
+    font-size: 25px;
+    background-color: black;
+    width: 100%;
+    text-align: center;
+}
+body {
+    background-color: white;
+    color:black;
+    font-family: monospace;
+    text-align: center;
+}
+
+#places img {
+    width: 925px;
+}
+h2 {
+    color:black;
+    font-family: monospace;
+    text-align: center;
+}
